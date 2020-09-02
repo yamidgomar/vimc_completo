@@ -440,7 +440,7 @@ let g:user_emmet_settings = {
 \		     ."\t<meta name=\"viewport\" content=\"width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0\">\n"
 \                    ."\t<meta charset=\"${charset}\">\n"
 \                    ."\t<title></title>\n"
-\                    ."\t<link rel='styleshee' href=''>\n"
+\                    ."\t<link rel='stylesheet' href=''>\n"
 \		     ."\t<style type=\"text/css\">\n"
 \                    ."\t    * {\n"
 \                    ."\t        margin: 0;\n"
